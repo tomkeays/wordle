@@ -14,26 +14,3 @@ this.wordle=this.wordle||{},this.wordle.bundle=function(e){"use strict";function
 
 
 }
-/*
-     FILE ARCHIVED ON 07:19:56 Jan 03, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 03:07:22 Mar 10, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 508.878
-  exclusion.robots: 334.166
-  exclusion.robots.policy: 334.158
-  xauthn.identify: 261.03
-  xauthn.chkprivs: 72.953
-  RedisCDXSource: 1.365
-  esindex: 0.007
-  LoadShardBlock: 154.612 (3)
-  PetaboxLoader3.resolve: 407.869 (4)
-  PetaboxLoader3.datanode: 784.075 (5)
-  CDXLines.iter: 16.307 (3)
-  load_resource: 1072.356 (2)
-*/
